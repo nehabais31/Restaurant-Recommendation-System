@@ -3,7 +3,7 @@
 
 
 
-## Describe here your project
+
 The idea is to make a recommendation sytem for recommending top restuarants of Massachussets to a user based on his previous ratings or feedbacks.  
 Also, generating some recommendations based on a specific keyword, like what are the top similar Indian Restaurants or what are some top similar pizza restaurants.  
 Cosine similarity metric is used to find the similar items.  
