@@ -21,16 +21,12 @@ Download the above files and save in a folder named Large_Yelp_datasets.
 
 
 
-# Submit your python scripts .py 
+# Scripts  
 
 3 scripts:  
   1. data_sampling.py ( This is for reference showing how I filtered and sampled my data to run on local machine)  
   2. recommendation_system.py -  Main task file implementing the entire recommendation system using the sampled data from above script
   3. Restaurant_Recommendation_System.ipynb - Jupyter Notebook for the recommendation task ( Content is similar to the .py script)  
-
-# Other Documents. 
-  1. Powerpoint slides  
-  2. Visualization Image for Result
 
 
 # How to run  
